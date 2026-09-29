@@ -71,7 +71,7 @@ The project is tested manually through the console. Run `python main.py` and try
 
 **Removing a report**
 
-![Remove](screenshots/05_remove.png)
+![Remove](/screenshots/05_remove.png)
 
 **Report counts and exit**
 
