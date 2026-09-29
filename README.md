@@ -79,7 +79,7 @@ The project is tested manually through the console. Run `python main.py` and try
 
 **Error handling (invalid type and empty fields)**
 
-![Error handling](screenshots/07_error_handling.png)
+![Error handling](07_error_handling.png)
 
 ## Known Limitations
 - Data is stored in memory only, so all reports are lost when the program exits.
